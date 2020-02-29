@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965521966804",
+    "firebase_url": "https://rollracing-counter.firebaseio.com",
+    "project_id": "rollracing-counter",
+    "storage_bucket": "rollracing-counter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965521966804:android:b6357b25ae2b10e1d05d41",
+        "android_client_info": {
+          "package_name": "com.titef.race_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965521966804-ia2ndrjpi554dh5a2fh922vjp0aoto9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY4F3vpuMK2D27BD1tyPPQNgxW-bL_Trk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965521966804-ia2ndrjpi554dh5a2fh922vjp0aoto9j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965521966804-r61k6dh8vvde0obaa954eu79jvth4hie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.titef.raceCounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
